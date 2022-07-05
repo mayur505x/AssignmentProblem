@@ -124,7 +124,7 @@ class Contacts {
 
         System.out.println(firstContact);
         System.out.println(firstContact + " ");
-        System.out.println(firstContact + "UC-2");
+       
 
 
 
