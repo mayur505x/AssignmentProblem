@@ -123,6 +123,9 @@ class Contacts {
         }
 
         System.out.println(firstContact);
+        System.out.println(firstContact + " ");
+
+
     }
 }
 
